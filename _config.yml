@@ -115,7 +115,7 @@ author:
   name             : "Mr. Xin PENG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ECE Depart. HKUST"
-  location         : "Room 3112A, Academic Building, HKUST"
+  location         : "Room 3112A"
   email            : "xpengaj@connect.ust.hk"
   links:
     - label: "Email"
