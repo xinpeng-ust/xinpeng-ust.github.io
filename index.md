@@ -16,14 +16,12 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Biography
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in electrical engineering from China Jiliang University, Hangzhou, China, in 2015, the M.S. degree in electrical engineering from Ningbo University, Ningbo, China, in 2018, and the Ph.D. degree from the Department of Informatics and Communication System, Xiamen University, Xiamen, China. From 2019 to 2020, he was a Visiting Ph.D. Student with the Department of Electrical and Computer Engineering, University of Houston, Houston, USA. Currently, he is a Post-Doctoral Fellow with the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, Foundation model, and resource allocation in wireless communications. Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
+*Xin PENG* received a B.E. degree in Microelectronics from Changchun University of Science and Technology (CUST), Changchun, China, in 2016, the M.S. degree in Integrated Circuit Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2019, and the Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology (HKUST), Hong Kong, China, in 2024.
 
 {: .text-justify}
-* 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
-* 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
-* 2018.09-2022.06, Ph.D. Degree, Department of Informatics and Communication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
-* 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-* 2011.09-2015.06, B.E. Degree, Communication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
+* 2019.09-2024.06, Ph.D. Degree, Department of Electronic and Computer Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Prof. Johnny K.O. Sin](https://ece.hkust.edu.hk/eesin);
+* 2016.09-2019.06, M.S. Degree, Integrated Circuit Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Supervisor: Prof. [Zehong Li](https://icse.uestc.edu.cn/info/1332/1730.htm).
+* 2012.09-2016.06, B.E. Degree, Microelectronics, [Changchun University of Science and Technology](https://sie.cust.edu.cn/).
 
 ---
 ### What's News
@@ -31,25 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 {: .text-justify}
 - [05/2024] One of our papers titled "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*" has been accepted by the IEEE Transactions on Wireless Communications.
 - [04/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
-- [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing.
-- [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
-- [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
-- [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
-- [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
-- [07/2023] A paper titled "*Federated Online Restless Bandits: A Thompson Sampling-Enabled Whittle Index Algorithm*" has been submitted for possible journal publication.
-- [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
-- [06/2023] We are going to hold a 6G wireless summit in Hong Kong on Sept. 13-14 titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)". Welcome! 
-- [05/2023] A paper titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been submitted to possible journal publication.
-- [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
-- [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
-- [03/2023] We published an article in the WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
-- [02/2023] One of our papers titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
-- [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted for possible journal publication.
-- [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted for possible journal publication.
-- [09/2022] We successfully held a conference workshop with Huawei on Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
-- [09/2022] I established a new homepage powered by *Github Page* based on the theme of [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
-- [06/2022] I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
-- [03/2022] I received the Post-doctoral Fellowship in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
+
 
 ---
 ### Publications
