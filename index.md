@@ -21,8 +21,8 @@ The Hong Kong University of Science and Technology (HKUST)
 {: .text-justify}
 * 2019.09-2024.06, Ph.D. Degree, Department of Electronic and Computer Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Johnny K.O. Sin](https://ece.hkust.edu.hk/eesin);
 * 2016.09-2019.06, M.S. Degree, Integrated Circuit Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Supervisor: Prof. [Zehong Li](https://icse.uestc.edu.cn/info/1332/1730.htm);
-* 2012.09-2016.06, B.E. Degree, Microelectronics, [Changchun University of Science and Technology](https://sie.cust.edu.cn/). Supervisor: Prof. [Duanmu Qingduo]
-(https://dmqd.eu5.org/eng.htm);
+* 2012.09-2016.06, B.E. Degree, Microelectronics, [Changchun University of Science and Technology](https://sie.cust.edu.cn/). Supervisor: Prof. [Duanmu Qingduo](https://dmqd.eu5.org/eng.htm).
+
 
 ---
 ### Research Experience                                                                                                            
