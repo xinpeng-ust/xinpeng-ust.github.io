@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "xpengaj@connect.ust.hk"
+      # url: "xpengaj@connect.ust.hk"
     - label: "Research Group"
       icon: "fas fa-fw fa-link"
       url: "https://eesin.home.ece.ust.hk/"
