@@ -19,7 +19,7 @@ The Hong Kong University of Science and Technology (HKUST)
 *Xin PENG* received a B.E. degree in Microelectronics from Changchun University of Science and Technology (CUST), Changchun, China, in 2016, the M.S. degree in Integrated Circuit Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2019, and the Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology (HKUST), Hong Kong, China, in 2024.
 
 {: .text-justify}
-* 2019.09-2024.06, Ph.D. Degree, Department of Electronic and Computer Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Prof. Johnny K.O. Sin](https://ece.hkust.edu.hk/eesin);
+* 2019.09-2024.06, Ph.D. Degree, Department of Electronic and Computer Engineering, [Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Johnny K.O. Sin](https://ece.hkust.edu.hk/eesin);
 * 2016.09-2019.06, M.S. Degree, Integrated Circuit Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Supervisor: Prof. [Zehong Li](https://icse.uestc.edu.cn/info/1332/1730.htm).
 * 2012.09-2016.06, B.E. Degree, Microelectronics, [Changchun University of Science and Technology](https://sie.cust.edu.cn/).
 
