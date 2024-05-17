@@ -1,7 +1,15 @@
 # main links
 main:
+  - title: "Home"
+    url: https://xinpeng-ust.github.io/
+  - title: "Honor"
+    url: /honor/ 
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=odJaO4QAAAAJ&hl=en&oi=sra
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #  - title: "Service"
+  #  url: /service/ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
