@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-**Post-Doctoral Fellow**
+**Ph.D. Candidate**
 
 {: .text-justify} 
 Department of Electronic and Computer Engineering (ECE) 
